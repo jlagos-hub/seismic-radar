@@ -1,7 +1,7 @@
 # Add Seismic Radar to Blogger as a new blog
 
 1. Go to blogger.com > **Create blog** (title: Seismic Radar, pick an address), then open the new blog.
-2. **Theme** > the arrow next to **Customize** > **Backup / Restore**? Not needed. Instead click **Customize > Edit HTML**.
+2. Open **Theme**, click the arrow next to **Customize**, then **Edit HTML**.
 3. Select all the existing code (Ctrl+A), delete it, paste the full content of `seismic-radar-blogger-theme.xml`, click **Save** (the disk icon).
 4. Open **View blog**. The page replaces the default blog layout.
 
